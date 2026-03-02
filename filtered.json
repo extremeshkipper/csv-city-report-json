@@ -1,0 +1,24 @@
+{
+  "city_stats": {
+    "Lviv": {
+      "count": 2,
+      "total_age": 46,
+      "avg_age": 23.0
+    },
+    "Kyiv": {
+      "count": 4,
+      "total_age": 92,
+      "avg_age": 23.0
+    },
+    "Odesa": {
+      "count": 3,
+      "total_age": 96,
+      "avg_age": 32.0
+    }
+  },
+  "top_cities": [
+    "Odesa",
+    "Kyiv",
+    "Lviv"
+  ]
+}
